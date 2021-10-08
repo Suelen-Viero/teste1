@@ -1,1 +1,2 @@
 Esta é a nova versão do exemplo 1 - ALTERADO pelo repositório clonegit
+Este é editado pelo clone
